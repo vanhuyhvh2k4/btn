@@ -49,13 +49,3 @@ div {
     opacity: 0.5 !important;
     cursor: default;
 }
-
-.btn--size-S {
-    padding: 8px 38px;
-
-}
-
-.btn--size-L {
-    padding: 16px 58px;
-
-}
